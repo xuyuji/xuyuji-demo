@@ -1,1 +1,1 @@
-# xuyuji-demo
+# xuyuji-python-demo
