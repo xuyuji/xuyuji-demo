@@ -23,3 +23,7 @@ wand 0.4.4
 [ImageMagick-6.9.6-8-Q8-x86-dll](https://ftp.icm.edu.pl/packages/ImageMagick/binaries/)
 
 [Ghostscript 9.23 for Windows (32 bit)](https://www.ghostscript.com/download/gsdnld.html)
+
+## 效果
+
+![](turing_week4.jpg)
